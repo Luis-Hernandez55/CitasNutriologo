@@ -56,10 +56,7 @@
   })
 </script>
 <footer class="main-footer text-sm">
-        <strong>Suscríbete y Visita a
-        <!-- <a href=""></a> -->
-        </strong>
-        <a href="https://www.youtube.com/channel/UCQt66csrx8LcVsI66hnu2fQ"> Fuente Web</a>        
+            
 </footer>
     </div>
     <!-- ./wrapper -->

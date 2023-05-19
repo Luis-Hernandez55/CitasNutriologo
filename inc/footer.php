@@ -61,9 +61,7 @@
 <!-- Footer-->
 <footer class="py-5 bg-dark">
             <div class="container">
-              <p class="m-0 text-center text-white">Suscríbete y Visita a</p>
-              <p class="m-0 text-center text-white"><a href="https://www.youtube.com/channel/UCQt66csrx8LcVsI66hnu2fQ">Fuente Web</a></p>
-          </div>
+            </div>
         </footer>
 
    
